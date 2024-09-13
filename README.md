@@ -1,4 +1,4 @@
-## Hi there 👋
+# About me
 
 <!--
 **dannykcao/dannykcao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Summary
+### As a college freshman diving into the programming and computer science world, I am currently taking CS50X online, a Harvard intro to CS course that will introduce me on how to be a successful programmer.
